@@ -1,4 +1,4 @@
 # lab
-laboratory for new voodoo
+laboratory for new html, css & javascript voodoo
 
-## simple angular 2 demo
+- simple angular 2 demo
